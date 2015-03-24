@@ -6,8 +6,6 @@ base theme	= "tao"
 
 ; Regions =====================================================================
 
-regions[sidebar_first] = Sidebar first
-regions[sidebar_second] = Sidebar second
 regions[content] = Content
 regions[header] = Header
 regions[help] = Help
@@ -19,7 +17,7 @@ regions[highlighted] = Highlighted
 
 ; Stylesheets =================================================================
 
-stylesheets[all][] = css/style.css
+stylesheets[all][] = scss/style.scss
 
 
 ; Scripts =================================================================
